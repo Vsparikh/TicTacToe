@@ -1,2 +1,2 @@
 # TicTacToe
- Classic tic tac toe game using Pygame 
+ Classic tic tac toe game using Python 
